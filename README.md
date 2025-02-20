@@ -6,7 +6,7 @@
 ## 🛠 Tech Stack  
 - 💻 **Languages:** C#, PL/SQL, JavaScript  
 - 🌐 **Frameworks & Tools:** ASP.NET Core, .NET Framework, Bootstrap, DevExpress  
-- 🛢 **Databases:** MySQL, Oracle PL/SQL  
+- 🛢 **Databases:** MsSQL, Oracle PL/SQL  
 - 📊 **Other Skills:** REST API, IIS, Git, Docker  
 
 ## 🚀 About Me  
